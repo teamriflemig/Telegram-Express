@@ -1,4 +1,4 @@
-# Tele Express 🚀
+# Telegram Express 🚀
 
 Tele Express is a modern, premium web application designed to simplify your Telegram messaging experience. It allows you to send messages directly to any phone number without the hassle of saving them to your contacts first.
 
