@@ -28,7 +28,7 @@ This project is built using modern web technologies to ensure speed, reliability
 
 ## 🚀 How to Use
 
-### 🌐 Online Version
+### 🌐 Online Version (Make sure you already login on web-based Telegram)
 If you are using the live version of Tele Express:
 1. **Go to the App**: Open [Tele Express](https://teamriflemig.github.io/Telegram-Express/)
 2. **Select Country**: Click the flag button to choose your recipient's country code.
